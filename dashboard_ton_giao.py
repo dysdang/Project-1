@@ -88,7 +88,7 @@ st.markdown(
 # ==============================================================================
 # 2. HÀM ĐỌC VÀ CHUẨN HÓA DỮ LIỆU TỰ ĐỘNG TỪ FILE EXCEL GỐC
 # ==============================================================================
-DEFAULT_EXCEL_NAME = "2026 a H. TỔNG HỢP SO LIEU CÁC TÔN GIÁO TREN DIA BAN TINH.xlsx"
+DEFAULT_EXCEL_NAME = "dulieu_tongiao.xlsx"
 
 
 @st.cache_data(show_spinner="Đang tải và chuẩn hóa dữ liệu tôn giáo toàn tỉnh...")
